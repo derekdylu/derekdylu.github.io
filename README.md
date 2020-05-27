@@ -1,13 +1,12 @@
-# @icheft's NTU Homepage
-(might as well be the simple one-page site I am going to use in the future ❤)
+# @derekdylu's Homepage
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4e6d221b-aed0-41ca-adb9-aab8ab2147b0/deploy-status)](https://app.netlify.com/sites/icheftatntu/deploys) [![GitHub](https://img.shields.io/github/license/icheft/ntu-homepage)](https://github.com/icheft/ntu-homepage/blob/master/LICENSE) ![Maintenance](https://img.shields.io/maintenance/yes/2020?color=orange) [![Website](https://img.shields.io/website?down_message=offline&up_color=lime&url=http%3A%2F%2Fhomepage.ntu.edu.tw%2F~b07705031%2F)](http://homepage.ntu.edu.tw/~b07705031/)
+[![Website](https://img.shields.io/website?down_message=offline&up_color=lime&url=https%3A%2F%2Fderekdylu.github.io%2F)](https://derekdylu.github.io/)
 
 ## Preview
 
 ![Image](https://i.imgur.com/zX2NCNu.png)
 
-This is a really simple site built for my NTU homepage at <http://homepage.ntu.edu.tw/~b07705031/>.
+This is a really simple site built for Brian L. Chen's NTU homepage at <http://homepage.ntu.edu.tw/~b07705031/>.
 
 
 ## About
@@ -42,4 +41,4 @@ I got the inspiration from [Evan You's site](http://evanyou.me).
 
 
 ## License
-The source code is released under the [MIT](https://github.com/icheft/ntu-homepage/blob/master/LICENSE) license, but any acknowledgement is appreciated 😄
+The source code is released under the [MIT](https://github.com/icheft/ntu-homepage/blob/master/LICENSE) license, but any acknowledgement is appreciated.
