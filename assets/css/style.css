@@ -163,6 +163,11 @@ p {
   color: #fff!important;
 }
 
+.social-icons .youtube:hover {
+  background-color: rgb(240, 2, 18)!important;
+  color: #fff!important;
+}
+
 
 
 @-webkit-keyframes Social-Icons-Flipping {
