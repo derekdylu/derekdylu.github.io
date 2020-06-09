@@ -4,9 +4,7 @@
 
 ## Preview
 
-![Image](https://i.imgur.com/zX2NCNu.png)
-
-This is a really simple site built for Brian L. Chen's NTU homepage at <http://homepage.ntu.edu.tw/~b07705031/>.
+This is a really simple site built for Derek D.Y.Lu's NTU homepage at <http://homepage.ntu.edu.tw/~b07705031/>.
 
 
 ## About
